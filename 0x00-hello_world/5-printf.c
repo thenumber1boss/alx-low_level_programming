@@ -1,16 +1,13 @@
 #include <stdio.h>
-
 /**
+ * main - Main function
  *
- * *main - Main function
  *
- * *
- *
- * *
  *
  * *Return: return 0 everytime
  *
- * */
+ *
+ */
 
 int main(void)
 
