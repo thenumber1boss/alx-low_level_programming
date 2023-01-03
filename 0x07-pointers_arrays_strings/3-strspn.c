@@ -7,7 +7,7 @@
  *Return:returns the number of bytes in the initial
  *segment of s which consist only of bytes from acce[t
  */
-unsigned int _strspn(char *s, char *accept);
+unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int bytes = 0;
 	int i;
